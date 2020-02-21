@@ -1,0 +1,25 @@
+{
+  "name": "gypsyai",
+  "version": "1.0.1",
+  "description": "Gypsy Cards Simple AI routines",
+  "main": "gypsyai.js",
+  "scripts": {
+    "test": "11,12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giovanni-Cardona/gypsyai.git"
+  },
+  "keywords": [
+    "gypsy",
+    "cards",
+    "briscas",
+    "giovanni"
+  ],
+  "author": "Giovanni Cardona <giovanni@cardona.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giovanni-Cardona/gypsyai/issues"
+  },
+  "homepage": "https://github.com/Giovanni-Cardona/gypsyai#readme"
+}
